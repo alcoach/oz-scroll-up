@@ -5,7 +5,7 @@ Scroll To Top jQuery Plugin
 
 Demo : http://elzero.net/demos/webs/github/oz-scroll-up/
 
-Features
+<h2>Features</h2>
 
 * A Nice And Small Scroll To Top Plugin
 * Has Two Styles To Choose From
@@ -13,7 +13,7 @@ Features
 * Easy To Use And Implement In Your Design
 * Easy To Edit And Add More Styles
 
-How To Use
+<h2>How To Use</h2>
 
 1- Upload The oz-scroll-up Image Folder Inside Your Images Folder Below Is And Example
 -- images / oz-scroll-up
@@ -36,7 +36,9 @@ This Is The Block You Need To Remove
 
 The Final Structure For The Plugin
 
+<pre>
 ---- images / oz-scroll-up
 ---- css / oz-scroll.css
 ---- js / oz-scroll-up.js
 -- index.html
+</pre>
