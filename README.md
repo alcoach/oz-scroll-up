@@ -1,4 +1,4 @@
-oz-scroll-up
+oz-scroll-up v1.0
 ============
 
 Scroll To Top jQuery Plugin
