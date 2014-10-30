@@ -1,0 +1,31 @@
+{
+  "name": "oz-scroll-up",
+  "version": "0.1.0",
+  "description": "A Scroll To Top JQuery plugin",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OsamaElzero/oz-scroll-up.git"
+  },
+  "keywords": [
+    "ScrollToTop"
+  ],
+  "author": "Osama El Zero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OsamaElzero/oz-scroll-up/issues"
+  },
+  "homepage": "https://github.com/OsamaElzero/oz-scroll-up"
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-concat": "~0.5.0",
+    "grunt-contrib-uglify": "~0.5.1",
+    "grunt-contrib-sass": "~0.5.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-cssmin": "~0.10.0"
+  }
+}

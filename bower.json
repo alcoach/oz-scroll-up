@@ -1,0 +1,24 @@
+{
+  "name": "oz-scroll-up",
+  "version": "0.1.0",
+  "homepage": "http://elzero.net/demos/webs/github/oz-scroll-up/",
+  "authors": [
+    "Osama El Zero"
+  ],
+  "description": "A Scroll To Top jQuery Plugin",
+  "main": "js/oz-scroll-top.js",
+  "keywords": [
+    "ScrollTop"
+  ],
+  "dependencies" :{
+    "jquery":"~1.11.0"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
